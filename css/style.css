@@ -78,6 +78,14 @@ h1, h2, h3, h4, h5, h6 {
   background: #3370AF;
 }
 
+.background-page{
+  background-image: url(bg_img.jpg);  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 #fh5co-main {
   max-width: 760px;
   min-height: 600px;
